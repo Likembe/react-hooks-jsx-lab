@@ -24,6 +24,7 @@ nav {
   top: 0;
   left: 0;
   right: 0;
+  
 }
 
 nav a {
@@ -62,3 +63,5 @@ nav a:active {
 #about img {
   max-height: 50%;
 }
+
+
